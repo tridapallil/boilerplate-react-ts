@@ -1,0 +1,9 @@
+.tmp
+.vscode
+architecture
+docs
+specs
+node_modules
+
+lib/
+build/

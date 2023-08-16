@@ -1,0 +1,34 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "allowCompoundWords": true,
+  "ignorePaths": [
+    ".tmp",
+    "coverage",
+    ".cspell.json",
+    "**/node_modules/**",
+    "*.d.ts",
+    "docs/CHANGELOG.md",
+    "modules/portal/craco.config.js",
+    "modules/portal/build",
+    "modules/functions/build",
+    "test",
+    "jest*"
+  ],
+  "import": ["node_modules/@cspell/dict-pt-br/cspell-ext.json"],
+  "dictionaries": [
+    "typescript",
+    "softwareTerms",
+    "node",
+    "en_US",
+    "en-gb",
+    "pt-br",
+    "npm",
+    "misc",
+    "filetypes",
+    "bash"
+  ],
+  "words": [
+    "Roboto"
+    ]
+}
